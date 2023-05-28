@@ -1,3 +1,5 @@
+[![Release](https://github.com/enthusiasticcodelab/dotfiles/actions/workflows/release.yml/badge.svg)](https://github.com/enthusiasticcodelab/dotfiles/actions/workflows/release.yml)
+
 # Dotfiles
 
 ## VS Code and Devcontainers
